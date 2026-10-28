@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LocalTube</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_shorts">Shorts</string>
+    <string name="nav_settings">Settings</string>
+    <string name="search_placeholder">Search videos, movies, audio, or chapters…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_videos">Videos</string>
+    <string name="filter_movies">Movies &amp; Long</string>
+    <string name="filter_audio">Audio</string>
+    <string name="filter_chapters">With Chapters</string>
+    <string name="Filter_continue_watching">Continue Watching</string>
+    <string name="empty_library_title">Your Local Media Library is Ready</string>
+    <string name="empty_library_subtitle">Authorize one or more media folders in Settings to automatically discover your videos, movies, Shorts, and audio files.</string>
+    <string name="open_settings_cta">Configure Media Folders in Settings</string>
+    <string name="load_demo_showcase_cta">Generate Local Demo Media Files</string>
+    <string name="shorts_empty_title">No Short-Form Videos Found</string>
+    <string name="shorts_empty_subtitle">Short videos (under 90 seconds or vertical aspect ratio) from your scanned folders will appear here automatically.</string>
+    <string name="settings_title">Settings &amp; Library</string>
+    <string name="settings_folders_section">Media Folders &amp; Scanning</string>
+    <string name="settings_add_folder">Add Media Folder</string>
+    <string name="settings_rescan_all">Rescan All Folders</string>
+    <string name="settings_appearance_section">Appearance</string>
+    <string name="settings_library_config_section">Library Configuration</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_theme_light">Light Mode</string>
+    <string name="settings_theme_dark">Dark Mode</string>
+    <string name="player_speed_2x">2× Speed</string>
+    <string name="player_chapters">Chapters</string>
+    <string name="player_add_chapter">Add Timestamp Chapter</string>
+    <string name="player_fullscreen">Toggle Fullscreen</string>
+    <string name="player_minimize">Minimize Player</string>
+    <string name="player_rewind_10">Rewind 10 seconds</string>
+    <string name="player_forward_10">Fast-forward 10 seconds</string>
+</resources>

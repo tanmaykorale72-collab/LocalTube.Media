@@ -1,0 +1,6 @@
+{
+  "name": "LocalTube",
+  "description": "A modern, YouTube-inspired offline media player for local videos, movies, Shorts, and audio with folder scanning, chapter navigation, and gesture playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
